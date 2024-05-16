@@ -1,0 +1,14 @@
+C:\Users\16362\Restaurant\Restaurant04\bin\Debug\net8.0\Restaurant04.exe
+C:\Users\16362\Restaurant\Restaurant04\bin\Debug\net8.0\Restaurant04.deps.json
+C:\Users\16362\Restaurant\Restaurant04\bin\Debug\net8.0\Restaurant04.runtimeconfig.json
+C:\Users\16362\Restaurant\Restaurant04\bin\Debug\net8.0\Restaurant04.dll
+C:\Users\16362\Restaurant\Restaurant04\bin\Debug\net8.0\Restaurant04.pdb
+C:\Users\16362\Restaurant\Restaurant04\obj\Debug\net8.0\Restaurant04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16362\Restaurant\Restaurant04\obj\Debug\net8.0\Restaurant04.AssemblyInfoInputs.cache
+C:\Users\16362\Restaurant\Restaurant04\obj\Debug\net8.0\Restaurant04.AssemblyInfo.cs
+C:\Users\16362\Restaurant\Restaurant04\obj\Debug\net8.0\Restaurant04.csproj.CoreCompileInputs.cache
+C:\Users\16362\Restaurant\Restaurant04\obj\Debug\net8.0\Restaurant04.dll
+C:\Users\16362\Restaurant\Restaurant04\obj\Debug\net8.0\refint\Restaurant04.dll
+C:\Users\16362\Restaurant\Restaurant04\obj\Debug\net8.0\Restaurant04.pdb
+C:\Users\16362\Restaurant\Restaurant04\obj\Debug\net8.0\Restaurant04.genruntimeconfig.cache
+C:\Users\16362\Restaurant\Restaurant04\obj\Debug\net8.0\ref\Restaurant04.dll
