@@ -18,5 +18,16 @@ public MenuItem(string name, string description, double price, string category, 
     Category = category;
     IsNew = isNew;
 }
+public string CheckNew(MenuItem)
+{
+if(IsNew == true)
+{
+    return "Menu item is new";
+}
+else{
+    return "Menu item is not new";
+}
+}
+    
     }
 }

@@ -5,5 +5,20 @@ MenuItem item2 = new("Shumai", "Enjoy these pork dumplings with black sweet sauc
 MenuItem item3 = new("Pho", "A special beef broth soup with rice noodles", 13.99, "Entree", true);
 MenuItem item4 = new("Sweet Rice", "This sweet treat pairs perfectly with mango or egg custard", 7.99, "Dessert", true);
 
+Menu newMenu = new Menu();
+//Menu removeM = new Menu();
+newMenu.NewItems(item1);
+newMenu.NewItems(item2);
+newMenu.NewItems(item3);
+newMenu.NewItems(item4);
 
-System.Console.WriteLine(item1.Name);
+MenuItem newItem = new MenuItem();
+newItem.CheckNew(item1);
+
+newMenu.RemoveItems(item1);
+newMenu.RemoveItems(item2);
+
+
+
+
+System.Console.WriteLine(newMenu.MenuItems[0].Name);
